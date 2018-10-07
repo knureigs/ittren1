@@ -1,0 +1,14 @@
+.container {  
+  border: 5px solid black;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.item {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  background-color: rgba(111,41,97,.3);
+  border: 2px solid rgba(111,41,97,.5);
+}
